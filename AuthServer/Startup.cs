@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using IdentityServer4;
+using IdentityServer4.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
@@ -37,9 +38,11 @@ namespace AuthServer
 
             services.AddIdentityServer()
                .AddDeveloperSigningCredential()
+               //.AddInMemoryIdentityResources(Config.GetIdentityResources())
                .AddTestUsers(Config.GetUsers())
                .AddInMemoryApiResources(Config.GetApiResources())
-               .AddInMemoryClients(Config.GetClients());
+               .AddInMemoryClients(Config.GetClients())
+               .AddProfileService<ProfileService>(); 
 
         }
 

@@ -35,10 +35,12 @@ namespace API
                {
                   
                    options.Authority = "http://localhost:5000";
+                  
                
                    options.RequireHttpsMetadata = false;
                    options.ApiName = "api";
                    options.ApiSecret = "secret";
+                 
                });
               
                
