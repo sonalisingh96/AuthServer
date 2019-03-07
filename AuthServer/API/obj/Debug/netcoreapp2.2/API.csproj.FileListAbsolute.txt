@@ -1,0 +1,28 @@
+C:\Users\z003whua\Downloads\AuthServer-master (1)\AuthServer-master\API\bin\Debug\netcoreapp2.2\API.deps.json
+C:\Users\z003whua\Downloads\AuthServer-master (1)\AuthServer-master\API\bin\Debug\netcoreapp2.2\API.runtimeconfig.json
+C:\Users\z003whua\Downloads\AuthServer-master (1)\AuthServer-master\API\bin\Debug\netcoreapp2.2\API.runtimeconfig.dev.json
+C:\Users\z003whua\Downloads\AuthServer-master (1)\AuthServer-master\API\bin\Debug\netcoreapp2.2\API.dll
+C:\Users\z003whua\Downloads\AuthServer-master (1)\AuthServer-master\API\bin\Debug\netcoreapp2.2\API.pdb
+C:\Users\z003whua\Downloads\AuthServer-master (1)\AuthServer-master\API\obj\Debug\netcoreapp2.2\API.csprojAssemblyReference.cache
+C:\Users\z003whua\Downloads\AuthServer-master (1)\AuthServer-master\API\obj\Debug\netcoreapp2.2\API.csproj.CoreCompileInputs.cache
+C:\Users\z003whua\Downloads\AuthServer-master (1)\AuthServer-master\API\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cache
+C:\Users\z003whua\Downloads\AuthServer-master (1)\AuthServer-master\API\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cs
+C:\Users\z003whua\Downloads\AuthServer-master (1)\AuthServer-master\API\obj\Debug\netcoreapp2.2\API.AssemblyInfoInputs.cache
+C:\Users\z003whua\Downloads\AuthServer-master (1)\AuthServer-master\API\obj\Debug\netcoreapp2.2\API.AssemblyInfo.cs
+C:\Users\z003whua\Downloads\AuthServer-master (1)\AuthServer-master\API\obj\Debug\netcoreapp2.2\API.RazorTargetAssemblyInfo.cache
+C:\Users\z003whua\Downloads\AuthServer-master (1)\AuthServer-master\API\obj\Debug\netcoreapp2.2\API.dll
+C:\Users\z003whua\Downloads\AuthServer-master (1)\AuthServer-master\API\obj\Debug\netcoreapp2.2\API.pdb
+D:\AuthServer\API\bin\Debug\netcoreapp2.2\API.deps.json
+D:\AuthServer\API\bin\Debug\netcoreapp2.2\API.runtimeconfig.json
+D:\AuthServer\API\bin\Debug\netcoreapp2.2\API.runtimeconfig.dev.json
+D:\AuthServer\API\bin\Debug\netcoreapp2.2\API.dll
+D:\AuthServer\API\bin\Debug\netcoreapp2.2\API.pdb
+D:\AuthServer\API\obj\Debug\netcoreapp2.2\API.csprojAssemblyReference.cache
+D:\AuthServer\API\obj\Debug\netcoreapp2.2\API.csproj.CoreCompileInputs.cache
+D:\AuthServer\API\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cache
+D:\AuthServer\API\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cs
+D:\AuthServer\API\obj\Debug\netcoreapp2.2\API.AssemblyInfoInputs.cache
+D:\AuthServer\API\obj\Debug\netcoreapp2.2\API.AssemblyInfo.cs
+D:\AuthServer\API\obj\Debug\netcoreapp2.2\API.RazorTargetAssemblyInfo.cache
+D:\AuthServer\API\obj\Debug\netcoreapp2.2\API.dll
+D:\AuthServer\API\obj\Debug\netcoreapp2.2\API.pdb

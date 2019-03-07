@@ -1,0 +1,28 @@
+C:\Users\z003whua\Downloads\AuthServer-master (1)\AuthServer-master\AuthServer\bin\Debug\netcoreapp2.2\AuthServer.deps.json
+C:\Users\z003whua\Downloads\AuthServer-master (1)\AuthServer-master\AuthServer\bin\Debug\netcoreapp2.2\AuthServer.runtimeconfig.json
+C:\Users\z003whua\Downloads\AuthServer-master (1)\AuthServer-master\AuthServer\bin\Debug\netcoreapp2.2\AuthServer.runtimeconfig.dev.json
+C:\Users\z003whua\Downloads\AuthServer-master (1)\AuthServer-master\AuthServer\bin\Debug\netcoreapp2.2\AuthServer.dll
+C:\Users\z003whua\Downloads\AuthServer-master (1)\AuthServer-master\AuthServer\bin\Debug\netcoreapp2.2\AuthServer.pdb
+C:\Users\z003whua\Downloads\AuthServer-master (1)\AuthServer-master\AuthServer\obj\Debug\netcoreapp2.2\AuthServer.csprojAssemblyReference.cache
+C:\Users\z003whua\Downloads\AuthServer-master (1)\AuthServer-master\AuthServer\obj\Debug\netcoreapp2.2\AuthServer.csproj.CoreCompileInputs.cache
+C:\Users\z003whua\Downloads\AuthServer-master (1)\AuthServer-master\AuthServer\obj\Debug\netcoreapp2.2\AuthServer.RazorAssemblyInfo.cache
+C:\Users\z003whua\Downloads\AuthServer-master (1)\AuthServer-master\AuthServer\obj\Debug\netcoreapp2.2\AuthServer.RazorAssemblyInfo.cs
+C:\Users\z003whua\Downloads\AuthServer-master (1)\AuthServer-master\AuthServer\obj\Debug\netcoreapp2.2\AuthServer.AssemblyInfoInputs.cache
+C:\Users\z003whua\Downloads\AuthServer-master (1)\AuthServer-master\AuthServer\obj\Debug\netcoreapp2.2\AuthServer.AssemblyInfo.cs
+C:\Users\z003whua\Downloads\AuthServer-master (1)\AuthServer-master\AuthServer\obj\Debug\netcoreapp2.2\AuthServer.RazorTargetAssemblyInfo.cache
+C:\Users\z003whua\Downloads\AuthServer-master (1)\AuthServer-master\AuthServer\obj\Debug\netcoreapp2.2\AuthServer.dll
+C:\Users\z003whua\Downloads\AuthServer-master (1)\AuthServer-master\AuthServer\obj\Debug\netcoreapp2.2\AuthServer.pdb
+D:\AuthServer\AuthServer\bin\Debug\netcoreapp2.2\AuthServer.deps.json
+D:\AuthServer\AuthServer\bin\Debug\netcoreapp2.2\AuthServer.runtimeconfig.json
+D:\AuthServer\AuthServer\bin\Debug\netcoreapp2.2\AuthServer.runtimeconfig.dev.json
+D:\AuthServer\AuthServer\bin\Debug\netcoreapp2.2\AuthServer.dll
+D:\AuthServer\AuthServer\bin\Debug\netcoreapp2.2\AuthServer.pdb
+D:\AuthServer\AuthServer\obj\Debug\netcoreapp2.2\AuthServer.csprojAssemblyReference.cache
+D:\AuthServer\AuthServer\obj\Debug\netcoreapp2.2\AuthServer.csproj.CoreCompileInputs.cache
+D:\AuthServer\AuthServer\obj\Debug\netcoreapp2.2\AuthServer.RazorAssemblyInfo.cache
+D:\AuthServer\AuthServer\obj\Debug\netcoreapp2.2\AuthServer.RazorAssemblyInfo.cs
+D:\AuthServer\AuthServer\obj\Debug\netcoreapp2.2\AuthServer.AssemblyInfoInputs.cache
+D:\AuthServer\AuthServer\obj\Debug\netcoreapp2.2\AuthServer.AssemblyInfo.cs
+D:\AuthServer\AuthServer\obj\Debug\netcoreapp2.2\AuthServer.RazorTargetAssemblyInfo.cache
+D:\AuthServer\AuthServer\obj\Debug\netcoreapp2.2\AuthServer.dll
+D:\AuthServer\AuthServer\obj\Debug\netcoreapp2.2\AuthServer.pdb
